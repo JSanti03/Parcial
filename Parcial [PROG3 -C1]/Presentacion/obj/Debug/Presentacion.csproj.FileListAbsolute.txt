@@ -1,0 +1,41 @@
+/home/luis/RiderProjects/Parcial/Presentacion/bin/Debug/Presentacion.exe
+/home/luis/RiderProjects/Parcial/Presentacion/bin/Debug/Presentacion.pdb
+/home/luis/RiderProjects/Parcial/Presentacion/bin/Debug/Entidades.dll
+/home/luis/RiderProjects/Parcial/Presentacion/bin/Debug/Logica.dll
+/home/luis/RiderProjects/Parcial/Presentacion/bin/Debug/Datos.dll
+/home/luis/RiderProjects/Parcial/Presentacion/bin/Debug/Entidades.pdb
+/home/luis/RiderProjects/Parcial/Presentacion/bin/Debug/Logica.pdb
+/home/luis/RiderProjects/Parcial/Presentacion/bin/Debug/Datos.pdb
+/home/luis/RiderProjects/Parcial/Presentacion/obj/Debug/Presentacion.csproj.AssemblyReference.cache
+/home/luis/RiderProjects/Parcial/Presentacion/obj/Debug/Presentacion.csproj.CoreCompileInputs.cache
+/home/luis/RiderProjects/Parcial/Presentacion/obj/Debug/Presentacion.csproj.CopyComplete
+/home/luis/RiderProjects/Parcial/Presentacion/obj/Debug/Presentacion.exe
+/home/luis/RiderProjects/Parcial/Presentacion/obj/Debug/Presentacion.pdb
+D:\Biblioteca\Downloads\Parcial\Presentacion\bin\Debug\Presentacion.exe
+D:\Biblioteca\Downloads\Parcial\Presentacion\bin\Debug\Presentacion.pdb
+D:\Biblioteca\Downloads\Parcial\Presentacion\bin\Debug\Entidades.dll
+D:\Biblioteca\Downloads\Parcial\Presentacion\bin\Debug\Logica.dll
+D:\Biblioteca\Downloads\Parcial\Presentacion\bin\Debug\Datos.dll
+D:\Biblioteca\Downloads\Parcial\Presentacion\bin\Debug\Entidades.pdb
+D:\Biblioteca\Downloads\Parcial\Presentacion\bin\Debug\Logica.pdb
+D:\Biblioteca\Downloads\Parcial\Presentacion\bin\Debug\Datos.pdb
+D:\Biblioteca\Downloads\Parcial\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Biblioteca\Downloads\Parcial\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Biblioteca\Downloads\Parcial\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Downloads\Parcial\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Biblioteca\Downloads\Parcial\Presentacion\obj\Debug\Presentacion.exe
+D:\Biblioteca\Downloads\Parcial\Presentacion\obj\Debug\Presentacion.pdb
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\bin\Debug\Presentacion.exe
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\bin\Debug\Presentacion.pdb
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\bin\Debug\Entidades.dll
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\bin\Debug\Logica.dll
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\bin\Debug\Datos.dll
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\bin\Debug\Entidades.pdb
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\bin\Debug\Logica.pdb
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\bin\Debug\Datos.pdb
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\obj\Debug\Presentacion.exe
+D:\Biblioteca\Downloads\Parcial [PROG3 -C1]\Presentacion\obj\Debug\Presentacion.pdb
